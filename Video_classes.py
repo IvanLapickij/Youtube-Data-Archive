@@ -6,12 +6,6 @@ class Video:
         self.__views = views
         self.__link = link
 
-    def resetAll(self):
-        self.__title = "reseted"
-        self.__likes = "reseted"
-        self.__views = "reseted"
-        self.__link = "reseted"
-
     def getTitle(self):
         return self.__title
 
