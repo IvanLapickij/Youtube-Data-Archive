@@ -1,0 +1,10 @@
+Manchester Utd:English:True:35:14:11:17
+PSV:French:True:9:6:3:10
+Queens Park:Scottish:False:8:5:3:11
+Roma:Italian:True:6:3:1:5
+Preston:English:False:11:7:4:17
+Bohs:Irish:False:9:3:3:4
+newteam:wherever:True:0:0:0:0
+andthis:asda:True:0:0:0:0
+sadawdaw:asa:True:0:0:0:0
+new:new:True:0:0:0:0

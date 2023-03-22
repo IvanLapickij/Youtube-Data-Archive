@@ -1,0 +1,6 @@
+#Custom tkinter#
+https://github.com/TomSchimansky/CustomTkinter
+#Get likes, header from youtube#
+https://webninjadeveloper.com/python/python-3-tkinter-script-to-get-views-likes-and-title-of-a-youtube-video-using-youtube-data-api-v3/
+#youtube API #
+https://developers.google.com/youtube/v3
